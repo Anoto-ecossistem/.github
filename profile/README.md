@@ -1,4 +1,4 @@
 ## Anoto
 
-[Anoto-Webiste Preview](https://anoto-website.vercel.app/)
-[Amoto-App Development](https://github.com/Anoto-ecossistem/Anoto-App)
+[Anoto-Webiste Preview](https://anoto-website.vercel.app/)<br>
+[Anoto-App Development](https://github.com/Anoto-ecossistem/Anoto-App)
