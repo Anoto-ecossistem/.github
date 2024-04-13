@@ -16,4 +16,8 @@ mobile apps:
 [Anoto-App Development](https://github.com/Anoto-ecossistem/Anoto-App)
 
 
-other projects:
+other projects:<br>
+[Find-job](https://github.com/Anoto-ecossistem/find-job)<br>
+[AwesomeIdeas](https://github.com/Anoto-ecossistem/awesomeideias)<br>
+[Cloud-price](https://github.com/Anoto-ecossistem/cloud-price)<br>
+[DesignIdeas](https://github.com/Anoto-ecossistem/designideias)<br>
