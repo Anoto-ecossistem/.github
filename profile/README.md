@@ -8,11 +8,11 @@ if you want to be part of this organization [follow me >_>](https://github.com/M
 
 about the Anoto:
 
-websites:
+website:
 [Anoto-Webiste Preview](https://anoto-website.vercel.app/)<br>
 
 
-mobile apps:
+mobile app:
 [Anoto-App Development](https://github.com/Anoto-ecossistem/Anoto-App)
 
 
