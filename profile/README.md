@@ -26,4 +26,5 @@ other projects:<br>
 [Designtools](https://github.com/Anoto-ecossistem/designtools)<br>
 [ProjectIdeias](https://github.com/Anoto-ecossistem/project-ideias)<br>
 [InvestCalculator](https://github.com/Anoto-ecossistem/invest-calculator)<br>
+[invest-graph](https://github.com/Anoto-ecossistem/invest-graph)<br>
 
