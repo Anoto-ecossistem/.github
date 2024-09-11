@@ -28,3 +28,7 @@ other projects:<br>
 [InvestCalculator](https://github.com/Anoto-ecossistem/invest-calculator)<br>
 [invest-graph](https://github.com/Anoto-ecossistem/invest-graph)<br>
 
+
+## Contributing
+
+If you want to contribute with ideas, please leave them in the [IdeasBox repository](https://github.com/Anoto-ecossistem/IdeasBox).
