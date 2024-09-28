@@ -28,6 +28,7 @@ other projects:<br>
 [InvestCalculator](https://github.com/Anoto-ecossistem/invest-calculator)<br>
 [invest-graph](https://github.com/Anoto-ecossistem/invest-graph)<br>
 [Blog-template](https://github.com/Anoto-ecossistem/Blog-template)<br>
+[generate-resume](https://github.com/MatheusAlvesPereira/generate-resume.git)<br>
 
 
 ## Contributing
