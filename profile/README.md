@@ -3,6 +3,9 @@
 ###
 This organization is like a notebook where we find several projects
 
+Anoto is evolving into a learning community focused on collaboration, curiosity, and continuous growth. 
+We aim to create open-source projects, share knowledge, and support developers and learners of all levels on their journey. Join us as we build, learn, and grow together.
+
 
 if you want to be part of this organization [just follow me >_>](https://github.com/MatheusAlvesPereira) and feel free to create projects within this organization
 <br>any programming language +-+
