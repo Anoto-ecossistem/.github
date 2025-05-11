@@ -18,7 +18,6 @@ about the Anoto:
 website:
 [Anoto-Webiste Preview](https://anoto-website.vercel.app/)<br>
 
-
 mobile app:
 [Anoto-App Development](https://github.com/Anoto-ecossistem/Anoto-App)
 
