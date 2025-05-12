@@ -5,7 +5,7 @@ This organization is like a notebook where we find several projects
 
 We are evolving into a learning community focused on collaboration, curiosity, and continuous growth.<br> 
 Our mission is to create open-source projects, share knowledge, and support developers and learners of all levels on their journeys.<br>
-Here at Anoto, we also focus on learning how to study better—based on evidence-based study methods and scientific research.<br>
+Here at Anoto, we focus on building creative projects that solve real problems or help people in meaningful ways.<br>
 Join us as we build, learn, and grow together.
 
 
